@@ -1,0 +1,7 @@
+
+\squid:UnusedPrivateMethod"3Remove this unused private "isOverlayShown" method.(’è¤}8…¾Òë­,
+}squid:S1450"\Remove the "mSnapAnimator" field and declare it as a local variable in the relevant methods.(æãäùÿÿÿÿ8…¾Òë­,
+Z"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(ãÁğ™øÿÿÿÿ8…¾Òë­,
+Ssquid:S1135"2Complete the task associated to this TODO comment.(Ú¦Ÿšûÿÿÿÿ8…¾Òë­,
+Tsquid:S1068"3Remove this unused "NOTIFICATION_ID" private field.(©›Šíúÿÿÿÿ8…¾Òë­,
+Fsquid:S00108")Either remove or fill this block of code.(å¥‡8…¾Òë­,
